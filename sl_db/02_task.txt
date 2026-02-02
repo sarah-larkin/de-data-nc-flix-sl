@@ -1,0 +1,23 @@
+You are now connected to database "nc_flix" as user "slark".
+           title            | release_date | average_rating 
+----------------------------+--------------+----------------
+ Highlander                 | 1986-08-29   |              3
+ The Breakfast Club         | 1985-06-07   |              3
+ A Fish Called Wanda        | 1988-07-07   |              7
+ Raiders of the Lost Ark    | 1981-06-12   |              9
+ Back to the Future         | 1985-07-03   |             10
+ The Care Bears Movie       | 1985-08-14   |             10
+ Ghostbusters II            | 1989-12-01   |               
+ Back to the Future Part II | 1989-11-22   |               
+ Tron                       | 1982-10-21   |               
+(9 rows)
+
+  location  | total_points | average_points 
+------------+--------------+----------------
+ Leeds      |          230 |          57.50
+ Leicester  |            0 |           0.00
+ Manchester |         1173 |         391.00
+ Bolton     |          198 |          99.00
+ Liverpool  |           13 |          13.00
+(5 rows)
+
