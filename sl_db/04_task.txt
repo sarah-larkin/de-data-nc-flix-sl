@@ -17,37 +17,6 @@ You are now connected to database "nc_flix" as user "slark".
  Manchester
 (7 rows)
 
-  location  
-------------
- Leeds
- Manchester
-(2 rows)
-
- total_catalogue |    city    | store_id 
------------------+------------+----------
-              11 | Manchester |        2
-(1 row)
-
- genre_name | count |    city    
-------------+-------+------------
- sci_fi     |    10 | Birmingham
- comedy     |     1 | Birmingham
- action     |     9 | Birmingham
- fantasy    |     3 | Leeds
- family     |     2 | Leeds
- crime      |     1 | Leeds
- sci_fi     |     4 | Leeds
- action     |     7 | Leeds
- comedy     |     8 | Manchester
- crime      |     6 | Manchester
- drama      |     6 | Manchester
- family     |     1 | Manchester
- sci_fi     |     4 | Manchester
- family     |     1 | Newcastle
- crime      |     3 | Newcastle
- drama      |     1 | Newcastle
-(16 rows)
-
  genre_name | total |    city    
 ------------+-------+------------
  comedy     |     8 | Manchester
