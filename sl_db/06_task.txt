@@ -1,0 +1,31 @@
+You are now connected to database "nc_flix" as user "slark".
+ customer_name |  location  | loyalty_membership_status 
+---------------+------------+---------------------------
+ David         | Leeds      | gold status
+ Joe           | Liverpool  | silver status
+ Verity        | Leicester  | doesn't even go here
+ Cat           | Manchester | silver status
+ Alex          | Manchester | gold status
+ Danika        | Manchester | silver status
+ Vel           | Leeds      | silver status
+ Liam          | Leeds      | doesn't even go here
+ Jim           | Leeds      | silver status
+ Paul C        | Bolton     | gold status
+ Haz           | Bolton     | doesn't even go here
+(11 rows)
+
+ customer_name | age |  location  | loyalty_points 
+---------------+-----+------------+----------------
+ Paul C        |  34 | Bolton     |            198
+ Haz           |  33 | Bolton     |               
+ David         |  33 | Leeds      |            202
+ Jim           |  36 | Leeds      |             14
+ Vel           |  36 | Leeds      |             14
+ Liam          |  32 | Leeds      |               
+ Verity        |  29 | Leicester  |               
+ Joe           |  36 | Liverpool  |             13
+ Alex          |  24 | Manchester |           1045
+ Danika        |  32 | Manchester |             99
+ Cat           |  40 | Manchester |             29
+(11 rows)
+
